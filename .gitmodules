@@ -1,10 +1,10 @@
 [submodule "images"]
 	path = images
-    url = https://github.com/pibook/images.git
+    url = https://github.com/xar1sgeovlacp2019059/images.git
     branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/pibook/_gallery.git
+	url = https://github.com/xar1sgeovlacp2019059/_gallery.git
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
@@ -22,3 +22,6 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
+[submodule "site"]
+	path = site
+	url = https://github.com/xar1sgeovlacp2019059/site.git
