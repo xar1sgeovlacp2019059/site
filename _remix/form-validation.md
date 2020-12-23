@@ -17,3 +17,10 @@ tags:
 </iframe>
 
 Άσκηση: Προσθέστε έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο. 
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="xar1sgeovlacp2019059" data-slug-hash="yLaOxEV" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Π αραδοτεο 9">
+  <span>See the Pen <a href="https://codepen.io/xar1sgeovlacp2019059/pen/yLaOxEV">
+  Π αραδοτεο 9</a> by π2019059 (<a href="https://codepen.io/xar1sgeovlacp2019059">@xar1sgeovlacp2019059</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
