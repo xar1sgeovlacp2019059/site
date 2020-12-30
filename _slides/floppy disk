@@ -1,0 +1,12 @@
+---
+layout: slides
+title: Floppy disk
+caption: Τα floppy disks είναι μια δισκέτα η οποία χρησιμοποιούταν για την επεξεργασία δεδομένων(ανάγνωση ή εγγραφή) οπως και οι σημερινοί δίσκοι. Τα πρώτα floppy disks κατασκευάστηκαν το 1971 απο την εταιρία IBM. Σήμερα δεν χρηιμοποιούνται διότι έχουν αντικατασταθεί απο δίσκους και φλασάκια  
+image_url: images/FloppyDiskComparetoFlashDisk.jpg , images/FloppyDiskFrontSide.jpg
+slides:
+  - Floppy Disk
+  - Data storage
+  - Disk
+  - IBM
+  
+---
