@@ -17,7 +17,7 @@ tags:
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="Π αραδοτεο 7" src="https://codepen.io/xar1sgeovlacp2019059/embed/gOMNbgQ?height=265&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/xar1sgeovlacp2019059/pen/gOMNbgQ'>Π αραδοτεο 7</a> by π2019059
+<<iframe height="265" style="width: 100%;" scrolling="no" title="Π αραδοτεο 7" src="https://codepen.io/xar1sgeovlacp2019059/embed/QWKaGqK?height=265&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/xar1sgeovlacp2019059/pen/QWKaGqK'>Π αραδοτεο 7</a> by π2019059
   (<a href='https://codepen.io/xar1sgeovlacp2019059'>@xar1sgeovlacp2019059</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
