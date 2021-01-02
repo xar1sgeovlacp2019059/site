@@ -17,7 +17,9 @@ tags:
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="Π αραδοτεο 7" src="https://codepen.io/xar1sgeovlacp2019059/embed/QWKaGqK?height=265&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/xar1sgeovlacp2019059/pen/QWKaGqK'>Π αραδοτεο 7</a> by π2019059
-  (<a href='https://codepen.io/xar1sgeovlacp2019059'>@xar1sgeovlacp2019059</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="xar1sgeovlacp2019059" data-slug-hash="QWKaGqK" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Π αραδοτεο 7">
+  <span>See the Pen <a href="https://codepen.io/xar1sgeovlacp2019059/pen/QWKaGqK">
+  Π αραδοτεο 7</a> by π2019059 (<a href="https://codepen.io/xar1sgeovlacp2019059">@xar1sgeovlacp2019059</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
