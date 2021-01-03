@@ -4,6 +4,7 @@ title: Μεταφορές
 image_url: /images/sugar-neighborhood.png
 caption: Όλα τα συστήματα κάνουν μια παραδοχή για τους τρόπους που ο χρήστης σκέφτεται και αλληλεπιδρά με τον υπολογιστή. 
 slides:
+  - FloppyDiskComparetoFlashDisk
   - sword-of-damocles
   - xanadu
   - home-programming
