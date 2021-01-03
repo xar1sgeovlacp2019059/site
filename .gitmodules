@@ -20,7 +20,7 @@
 	branch = master
 [submodule "_bibliography"]
 	path = _bibliography
-	url = https://github.com/pibook/bibliography.git
+	url = https://github.com/xar1sgeovlacp2019059/bibliography
 	branch = master
 [submodule "site"]
 	path = site
